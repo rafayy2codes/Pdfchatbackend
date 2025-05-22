@@ -6,7 +6,7 @@ Intelligent chat over uploaded PDF documents using state-of-the-art vector searc
 
 ## Frontend Repositories
 
-- [Frontend on GitHub]([https://github.com/rafayy2codes/Pdfchatbackend](https://github.com/rafayy2codes/Pdfchatfrontend))
+- [Frontend on GitHub]([https://github.com/rafayy2codes/Pdfchatbackend])
 
 
 ## Features
